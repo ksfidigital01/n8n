@@ -6,5 +6,8 @@
   },
   "dependencies": {
     "n8n": "0.231.0"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
