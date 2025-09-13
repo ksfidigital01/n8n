@@ -5,7 +5,7 @@
     "start": "n8n"
   },
   "dependencies": {
-    "n8n": "0.231.0"
+    "n8n": "1.110.1"
   },
   "engines": {
     "node": "18.x"
